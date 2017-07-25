@@ -8,6 +8,6 @@ module.exports = [
 	"./gulp/tasks/clean.js",
 	"./gulp/tasks/js.foundation.js",
 	"./gulp/tasks/css.foundation.js",
-	"./gulp/tasks/js.process.js",
-	"./gulp/tasks/js.lint.js"
+	"./gulp/tasks/js.process.js"
+	//"./gulp/tasks/js.lint.js"
 ];

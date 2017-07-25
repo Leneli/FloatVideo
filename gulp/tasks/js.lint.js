@@ -1,4 +1,4 @@
-"use strict";
+/*"use strict";
 
 module.exports = function() {
 	$.gulp.task("js:lint", function() {
@@ -7,3 +7,4 @@ module.exports = function() {
 			.pipe($.gp.eslint.format());
 	})
 };
+*/

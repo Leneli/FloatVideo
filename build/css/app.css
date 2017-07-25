@@ -1,2 +1,2 @@
-*{box-sizing:border-box}body{height:200vh;margin:0}.site-wrapper,body{width:100%}
+*{box-sizing:border-box}body{height:300vh;margin:0}.site-wrapper,body{width:100%}.block-with-video,.container{position:relative;width:100%}.container{display:block}.container.fix{position:fixed;bottom:0;right:0;top:auto;left:auto}video{display:block;width:100%;max-width:100%;height:100%}video.popup{width:100%;-webkit-transform:scale(.8);transform:scale(.8)}.overlay{position:absolute;display:none;top:0;right:0;bottom:0;left:0;background:#000;opacity:0}
 /*# sourceMappingURL=app.css.map */
