@@ -4,8 +4,8 @@
     },
     "extends": "eslint:recommended",
     "rules": {
-        "indent": [2, 2],
-        "quotes": [2, "single"],
+        "indent": [0, 4],
+        "quotes": [0, "double"],
         "semi": [2, "always"]
     }
 }

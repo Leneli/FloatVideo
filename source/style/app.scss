@@ -1,5 +1,13 @@
-body {
-  margin: 0;
+* {
+	box-sizing: border-box;
 }
 
-@import 'common/greating';
+body {
+	width: 100%;
+	height: 200vh; //for testing
+	margin: 0;
+}
+
+.site-wrapper {
+	width: 100%;
+}
